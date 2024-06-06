@@ -1,5 +1,3 @@
-# AwaisTariq
-
 # Hi there, I'm Awais Tariq 👋
 
 I'm a Full Stack Developer with over 3 years of experience working on various web applications. My professional journey includes significant contributions to private repositories across multiple organizations.
@@ -13,55 +11,83 @@ I'm a Full Stack Developer with over 3 years of experience working on various we
 
 ## Work Experience
 
-### Full Stack Engineer
-**Tech Innovations, Bangkok, Thailand**
-*08/2021 – 07/2022*  
-- Developed and maintained web applications using modern technologies.
-- **Technologies used**: Laravel, JQuery, Alpine.js, React.js, Next.js, Node.js, Firebase, Supabase, Strapi, Shopify Integrations, Docker.
-- **Responsibilities**: Developed and maintained several web applications, collaborated with cross-functional teams, and ensured seamless integration of new features.
+### Freelance Full Stack Web Developer
+*03/2018 – 04/2020*  
+**City:** Lahore  
+**Country:** Pakistan  
+- Developed various web applications, including a web-based application for connecting students and tutors, a portfolio website, an online store for a boutique fashion retailer, and a booking system for a beauty salon.
+- **Technologies used**: Firebase, GPS APIs, multiple GUI layouts.
 
 ### Full Stack Engineer
-**Rabbit Rewards, Bangkok, Thailand**  
-*08/2022 – 12/2022*  
+**Alive United**  
+*04/2020 – 09/2020*  
+**City:** Bangkok  
+**Country:** Thailand  
+- Developed and maintained a Shutterstock-style website for artists, including features like a searchable database of artwork, secure user accounts, and a payment system.
+- **Technologies used**: PHP Laravel, JQuery, MySQL, Amazon AWS, Redis Database, Docker, HTML5, CSS.
+
+### Full Stack Engineer
+**Ascend Corporation**  
+*10/2020 – 06/2021*  
+**City:** Bangkok  
+**Country:** Thailand  
+- Built new functionalities and improved the existing CMS for the Lotus project.
+- **Technologies used**: PHP Laravel, React.js, Next.js, Node.js, JQuery, Jenkins, Docker.
+
+### Full Stack Engineer
+**True Move**  
+*07/2021 – 12/2021*  
+**City:** Bangkok  
+**Country:** Thailand  
+- Developed new functionalities and improved the existing online store.
+- **Technologies used**: PHP Laravel, Vue.js, JQuery, Jenkins, Docker.
+
+### Full Stack Engineer
+**Rabbit Rewards**  
+*01/2022 – 12/2022*  
+**City:** Bangkok  
+**Country:** Thailand  
 - Developed a CMS that allows users to create and configure surveys.
 - **Technologies used**: Node.js, React.js, Next.js, Bootstrap, Docker.
-- **Responsibilities**: Designed and implemented a customizable survey CMS, optimized application performance, and ensured data security.
 
 ### Full Stack Engineer
-**Yield.APP, Bangkok, Thailand**  
-*12/2022 – 05/2023*  
+**Yield.APP**  
+*01/2023 – 05/2023*  
+**City:** Bangkok  
+**Country:** Thailand  
 - Built landing pages and a collection of blogs with localization in different languages.
 - **Technologies used**: Strapi, Next.js, Bootstrap.
-- **Responsibilities**: Developed multi-language support for blogs, enhanced SEO, and improved user engagement through effective content structuring.
 
 ### Full Stack Developer
 **Lingua Panda**  
-*05/2023 – 08/2023*  
+*06/2023 – 08/2023*  
+**City:** Bangkok  
+**Country:** Thailand  
 - Developed two websites for teachers and students, including class enrollment, scheduling, and PDF downloads.
 - **Technologies used**: PHP, Laravel, Bootstrap, Strapi, Payment Integration.
-- **Responsibilities**: Implemented secure payment gateways, developed user-friendly interfaces, and ensured smooth scheduling and enrollment processes.
 
 ### Tech Lead / Full Stack Developer
-**Brickpaths, Bangkok, Thailand**  
-*08/2023 – 05/2024*  
+**Brickpaths**  
+*09/2023 – Present*  
+**City:** Bangkok  
+**Country:** Thailand  
 - Led the development of a comprehensive real estate lending platform.
 - **Technologies used**: Node.js, TypeScript, MongoDB, Next.js, Material UI, Docker, CI/CD.
-- **Responsibilities**: Spearheaded the development of key features, ensured high code quality through CI/CD pipelines, and led a team of developers to deliver robust solutions.
 
 ## Technical Skills
 
 - **JavaScript**: 3+ years
-- **TypeScript**: 3+ years
-- **Node.js**: 3+ years
+- **TypeScript**: 3 years
+- **Node.js**: 3 years
 - **React**: 3+ years
 - **Next.js**: 3+ years
 - **PHP**: 3 years
-- **Laravel**: 3 years
+- **Laravel**: 2 years
 - **MongoDB**: 3+ years
 - **Strapi**: 2 years
-- **Docker**: 3 years
+- **Docker**: 2 years
 - **CI/CD**: 2 years
-- **Bootstrap**: 3+ years
+- **Bootstrap**: 2 years
 - **Material UI**: 3+ years
 - **Tailwind CSS**: 3+ years
 - **Postgres**: 2 years
@@ -71,7 +97,7 @@ I'm a Full Stack Developer with over 3 years of experience working on various we
 
 ## Public Projects
 
-While most of my contributions are in private repositories.
+While most of my contributions are in private repositories, here are a few public projects that demonstrate my skills:
 
 ## Private Contributions
 
@@ -79,7 +105,7 @@ While most of my contributions are in private repositories.
 
 ## Contact Me
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/awais-tariq-886381258/) or [Email](mailto:a.tariq1337@gmail.com). I'm always open to discussing new opportunities and collaborations!
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/awais-tariq-886381258) or [Email](mailto:a.tariq1337@gmail.com). I'm always open to discussing new opportunities and collaborations!
 
 ---
 
